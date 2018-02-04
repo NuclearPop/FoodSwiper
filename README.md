@@ -1,1 +1,2 @@
-# FoodSwiper
+# food-swiper
+React.js + Express
